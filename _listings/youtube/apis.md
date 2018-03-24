@@ -26,7 +26,7 @@ apis:
   tags: Livestreams
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/livestreams/master/_listings/youtube/livestreams-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/livestreams/master/_listings/youtube/livestreams-put.md
 x-common:
 - type: x-articles
   url: https://developers.google.com/youtube/articles/
